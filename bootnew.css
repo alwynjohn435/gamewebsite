@@ -1,0 +1,168 @@
+
+.ud:hover{
+	text-decoration:underline;
+	
+}
+
+.tp:hover{
+	text-decoration:underline;
+	
+}
+
+.ml:hover{
+	text-decoration:underline;
+}
+
+.tv:hover{
+	text-decoration:underline;
+}
+
+.ps:hover{
+	text-decoration:underline;
+}
+
+
+.aa:hover{
+	text-decoration:underline;
+	
+}
+
+.sc{
+position:relative;
+right:5px;
+	margin-left:5px;
+}
+
+	
+
+.vv{
+	padding:10px;
+	
+	
+	
+}
+
+
+
+.ab{
+	position:relative;
+	top:50px;
+}
+
+
+
+
+.ab{
+	padding:20px;
+	
+	
+	
+	
+}
+
+
+.ab:hover{
+	transition:all 1s linear;
+	transform:scale(1.2);
+}
+
+
+
+.hh1{
+	position:relative;
+	top:60px;
+}
+
+
+	
+.ab1{
+	padding:20px;
+}
+
+
+.ab1:hover{
+	
+transition:all 1s linear;
+	transform:scale(1.2);
+}
+
+.mul:hover{
+	transition:all 5s linear;
+	transform:scale(1.2);
+}
+
+.ab2{
+	padding:20px;
+}
+
+
+.ab2:hover{
+	transition:all 1s linear;
+	transform:scale(1.2);
+}
+
+
+
+.hh1:hover{
+	
+	text-decoration:underline;
+	cursor:pointer;
+
+}
+
+.hh2{
+	margin-top:20px;
+}
+
+
+.hh2:hover{
+	text-decoration:underline;
+	cursor:pointer;
+	
+}
+
+.hh3:hover{
+	text-decoration:underline;
+	cursor:pointer;
+}
+
+
+
+	
+	
+	
+
+	
+
+.nav{
+	position:fixed;
+	top:0px;
+	left:0px;
+	z-index:1;
+	width:100%;
+	padding:10px;
+	
+}
+
+
+
+.back{
+	background-image:url(https://cdn.dribbble.com/users/5946079/screenshots/15271639/my-playing-design-2_4x.jpg);
+	background-attachment:fixed;
+	background-repeat:none;
+	
+}
+
+
+
+
+
+
+.ash{
+	background-color:black;
+	padding:5px 25px;
+	
+}
+
+
+
